@@ -2,7 +2,7 @@
 ### Hi My Name is Yeeun Chae 🎅
 - **I love data analysis**
 - **I also have an adorable cat named ShaSha**  
-<img src="샤샤증사.jpg" width="100px" height="100px"></img> : Hi!! 
+<img src="shasha.jpg" width="100px" height="100px"></img> : Hi!! 
 
 ---
 
